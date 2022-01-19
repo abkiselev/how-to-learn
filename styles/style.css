@@ -270,6 +270,7 @@ margin-top: 60px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin: 20px 0 16px;
 }
 
 .footer__author {
@@ -289,10 +290,6 @@ margin-top: 60px;
   font-size: 18px;
   text-decoration: none;
   color: white;
-}
-
-.footer__column-links {
-  margin: 20px 0 16px;
 }
 
 .footer__social-icon {
